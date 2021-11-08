@@ -10,7 +10,8 @@ table,tr,th,td{border: solid 1px black;}
 figcaption{font-style: italic;}
 
 figure{
-    clear:right;
+    
+    
     clear:top;
     float:right;
 }
