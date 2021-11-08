@@ -1,8 +1,9 @@
 body{
+    
     width: 70%;
     margin: 0px auto;
 }
-
+.fromleft{margin-left: 6%;}
 h1,h2,h3{font-family: sans-serif;margin-top: 3em; margin-bottom: 1.5em;}
 h1{font-size: 32px;}
 table,tr,th,td{border: solid 1px black;}
