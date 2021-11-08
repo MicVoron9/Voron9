@@ -8,7 +8,9 @@ h1,h2,h3{font-family: sans-serif;margin-top: 3em; margin-bottom: 1.5em;}
 h1{font-size: 32px;}
 table,tr,th,td{border: solid 1px black;}
 figcaption{font-style: italic;}
-
+.fromleftbig{
+    margin-left: 40%;
+}
 figure{
     
     
